@@ -5,3 +5,4 @@
 - TODO: Better error handling (modal instead of replacing text)
 - TODO: CSS skeleton while loading
 - TODO: handle request timeout when video doesn't load
+- TODO: run e2e tests in ci
