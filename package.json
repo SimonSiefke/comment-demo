@@ -2,9 +2,14 @@
   "name": "comment-demo",
   "description": "",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimonSiefke/comment-demo"
+  },
   "scripts": {
     "dev": "sapper dev",
-    "build": "sapper export --legacy",
+    "export": "sapper export --legacy",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",

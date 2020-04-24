@@ -3,8 +3,8 @@
 ## Quickstart 🚀
 
 ```sh
-git clone TODO &&
-cd frontend-blog-demo &&
+git clone https://github.com/SimonSiefke/comment-demo &&
+cd comment-demo &&
 npm install &&
 npm run dev
 ```
