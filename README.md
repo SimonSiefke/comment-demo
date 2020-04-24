@@ -9,8 +9,8 @@ https://comments-demo.netlify.app 👈
 ## Quickstart 🚀
 
 ```sh
-git clone https://github.com/SimonSiefke/comment-demo &&
-cd comment-demo &&
+git clone https://github.com/SimonSiefke/comments-demo &&
+cd comments-demo &&
 npm install &&
 npm run dev
 ```
